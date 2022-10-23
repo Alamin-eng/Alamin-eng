@@ -7,8 +7,8 @@
 2. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/)
 3. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)
 4. [High Scores App](https://cyf-alamin-eng-highscore-react.netlify.app/)
-5. [Hotel Bookings App](https://cyf-alamin-eng-highscore-react.netlify.app/)
-6.  [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
+5. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/)
+6. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
 7. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
 8. [Pricklesandco.](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
 
