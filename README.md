@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohammad Alamin--- 
+# 👋 Hi, I’m Mohammad Alamin 
 ### 🌱 🌱 I’m a FullStack Developer 🪐 🗺️ 
 ![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
 - 👀 I’m interested in 👨‍💻 Coding, 🆕 Learning ➿,  🚌 ✈️ 🌆 Travelling, 🥘 Cooking 🍹, ⚽ Sports.
