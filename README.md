@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohammad Alamin 
 ### 🌱 🌱  I’m a FullStack Developer based in London 🪐 🗺️ 
 ![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
-- 👀 I’m interested in 👨‍💻 Coding, 🆕 Learning, 🚌 🛩️ 🌆 Travelling, 🥘 Cooking, ⚽ Sports.
+- 👀 I’m interested in 👨‍💻 Coding, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports.
 - 🏗️ I Have created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth mentioning that I have made all my app's responsive in any device 🌞. Here are the links for some of my App's and sites - 
 1. [FullStack App](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/)
 2. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/)
@@ -12,9 +12,40 @@
 7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
 8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
 9. [Prickles and co.](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
+10. [Cyf mini project](https://cyf-alamin-eng-mini-project-react.netlify.app/)
 
 - 💞️ I’m looking to collaborate on Javascritp, React, HTML & CSS, Node.js, Postgre SQL 🌴🌳
-- 📫 How to reach me ❓ Please 📧 email me -  mohammedalaminruben@gmail.com or use the following link
+
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="41">
+<img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB2" height="41">
+<img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="41">
+<img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="41">
+<img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="41">
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="41"> 
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- 📫 How to reach me ❓ Please email me -  mohammedalaminruben@gmail.com or use the following link
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/)
