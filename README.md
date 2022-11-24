@@ -12,7 +12,7 @@
 7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
 8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
 9. [Prickles and co.](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
-10. [Cyf mini project](https://cyf-alamin-eng-mini-project-react.netlify.app/)
+10. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)
 
 #### 💞️ I’m looking to collaborate on Javascritp, React, HTML & CSS, Node.js, Postgre SQL 🌴🌳
 
