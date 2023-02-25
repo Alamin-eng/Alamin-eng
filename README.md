@@ -13,6 +13,7 @@
 8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
 9. [Prickles and co.](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
 10. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)
+11. [Random quotes](https://random-quotes-react-app.netlify.app/)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
 
