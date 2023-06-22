@@ -2,7 +2,7 @@
 ### 🌱 🌱  I’m a Fullstack Developer based in London 🪐 🗺️ 
 ![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
 - 👀 I’m interested in 👨‍💻 Coding, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports.
-- 🏗️ I Have created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth mentioning that I have made all my app's responsive in any device 🌞. Here are the links for some of my App's and sites - 
+- 🏗️ I Have created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth to mention that I have made all my app's responsive in any device 🌞. Here are the links for some of my App's and sites - 
 1. [Fullstack App](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/)
 2. [Final Project with a team](https://in-a-class-of-our-own.onrender.com/)
 3. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/)
