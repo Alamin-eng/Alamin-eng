@@ -3,7 +3,7 @@
 ![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
 - I’m interested in 👨‍💻 Coding, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports.
 - 🏗️ I Have created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth to mention that I have made all my app's responsive in any device 🌞. Here are the links for some of my App's and sites - 
-1. [Trainee Tracker App (Hackathon Final Project](https://in-a-class-of-our-own.onrender.com/)
+1. [Trainee Tracker App (Hackathon Final Project)](https://in-a-class-of-our-own.onrender.com/)
 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/)
 3. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/)
 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)
@@ -12,7 +12,7 @@
 7. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/)
 8. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
 9. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
-10. [Prickles and co.](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
+10. [Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
 11. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)
 12. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)
 13. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)
