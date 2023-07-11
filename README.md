@@ -12,7 +12,7 @@
 7. [High Scores App](https://cyf-alamin-eng-highscore-react.netlify.app/)
 8. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
 9. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
-10.[Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
+10. [Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
 11. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)
 12. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)
 13. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)
