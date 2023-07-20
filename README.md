@@ -19,7 +19,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
 
-#### 💞️ I’m looking to collaborate on Javascritp, React, HTML & CSS, Node.js, Postgre SQL 🌴🌳
+#### 💞️ I’m looking to collaborate on Javascritp, React, HTML & CSS, Node.js, PostgresSQL 🌴🌳
 
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"> <img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB2" height="40"> <img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40">
 
