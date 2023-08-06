@@ -1,10 +1,13 @@
-# 👋 Hi, I’m Mohammad Alamin 
-### 🌱 🌱  I’m a Fullstack Developer Graduate based in London 🪐 🗺️ 
-![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
 
-I’m interested in 👨‍💻 Coding, 💡Problem Solving, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports
+<h1 align="center" style="color:red">Hi 👋, I'm Mohammad Alamin</h1>
 
-### Languages and Tools:
+## 🌱 I’m a Fullstack Developer Graduate based in London 🪐 I’m interested in 👨‍💻 Coding, 💡Problem Solving, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports
+#### 📫 How to reach me ❓ Please use the following links to reach me - 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mohammedalaminruben@gmail.com)
+
+## Languages and Tools:
 <p align="left" margin="100px">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="70" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="70"/> </a>
@@ -26,9 +29,7 @@ Our collaboration and Agile methodology approach ensured successful completion. 
 
 ### 1. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) 3. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/) 5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/) 6.[Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/) 8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/) 9.[High Scores App](https://cyf-alamin-eng-highscore-react.netlify.app/) 10. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/) 11. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/) 12. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
-
-#### Frameworks, Platforms and Libraries often used - 
+#### Frameworks, Platforms and Libraries I often used - 
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -76,11 +77,6 @@ Our collaboration and Agile methodology approach ensured successful completion. 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-#### 📫 How to reach me ❓ Please email me -  mohammedalaminruben@gmail.com or use the following link
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mohammedalaminruben@gmail.com)
 
 <!-- <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" display="inline-block">
 <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50" height="50">
