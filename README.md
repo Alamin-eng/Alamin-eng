@@ -1,27 +1,32 @@
 # 👋 Hi, I’m Mohammad Alamin 
 ### 🌱 🌱  I’m a Fullstack Developer Graduate based in London 🪐 🗺️ 
 ![Alt](https://cdn.phenompeople.com/CareerConnectResources/prod/HONEUS/images/1920-568-coding-blog-1616781712070.png)
-- I’m interested in 👨‍💻 Coding, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports.
-- 🏗️ I Have created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth to mention that I have made all my app's responsive in any device 🌞. Here are the links for some of my App's and sites - 
-1. [Trainee Tracker App (Hackathon Final Project)](https://in-a-class-of-our-own.onrender.com/)
-2. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/)
-3. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/)
-4. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/)
-5. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)
-6. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/)
-7. [High Scores App](https://cyf-alamin-eng-highscore-react.netlify.app/)
-8. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)
-9. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)
-10. [Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)
-11. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)
-12. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)
-13. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)
+
+I’m interested in 👨‍💻 Coding, 💡Problem Solving, 🆕 Learning, 🚌 ✈️ 🌆 Travelling, 🍲 Cooking, ⚽ Sports
+
+### Languages and Tools:
+<p align="left" margin="100px">
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="70" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="70"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="70"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="70"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355" alt="nodejs" width="90" height="60"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="sql" width="190" height="60"/> </a>
+</p>
+
+## Projects Showcase
+
+### [Trainee Tracker app](https://in-a-class-of-our-own.onrender.com/)
+Our Final Project was developed collaboratively by a team of three. The project was to create Trainee tracker responsive app for CYF students. I have learned advanced Backend development with Asynchronous programming techniques and how to work on Github project board for team collaboration. I have hugely contributed in this project, I have created the Database from scratch and coded to fetch all data from multiple API's and calculated data in the Backend for the Frontend interaction which is the core functionality of this project. I have also contributed in the some frontend parts to help my team.
+
+We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create a comprehensive web application.
+Our collaboration and Agile methodology approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
+
+## I Have also created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth to mention that I have made all my app's responsive in any device 🌞. Here are the links for some of my personal projects - 
+
+### 1. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) 3. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/) 5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/) 6.[Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/) 8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/) 9.[High Scores App](https://cyf-alamin-eng-highscore-react.netlify.app/) 10. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/) 11. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/) 12. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
-
-#### 💞️ I’m looking to collaborate on Javascritp, React, HTML & CSS, Node.js, PostgresSQL 🌴🌳
-
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"> <img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB2" height="40"> <img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40">
 
 #### Frameworks, Platforms and Libraries often used - 
 
