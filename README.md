@@ -20,7 +20,7 @@
 ## Projects Showcase
 
 ### [Trainee Tracker app](https://in-a-class-of-our-own.onrender.com/)
-Our Final Project was developed collaboratively by a team of three. The project was to create Trainee tracker responsive app for CYF students. I have learned advanced Backend development with Asynchronous programming techniques and how to work on Github project board for team collaboration. I have created the Database from scratch and coded to fetch all data from multiple API's and calculated data in the Backend for the Frontend interaction which is the core functionality of this project. I have also contributed in the some frontend parts to help my team.
+Our Final Project was developed collaboratively by a team of three. The project was to create Trainee tracker responsive fullstack app for CYF students. I have learned advanced Backend development with Asynchronous programming techniques and how to work on Github project board for team collaboration. I have created the Database from scratch and coded to fetch all data from multiple API's and calculated data in the Backend for the Frontend interaction which is the core functionality of this project. I have also contributed in the some frontend parts to help my team.
 
 We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile methodology approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
