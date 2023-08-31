@@ -24,7 +24,7 @@ Our Final Project was developed collaboratively by a team of three. The project 
 
 We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile methodology approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
-### Personal projects and course work projects -
+### Solo projects -
 ## I Have also created many apps and sites using my extensive knowledge of frontend and backend softwares and it's worth to mention that I have made all my app's responsive in any device 🌞. Here are the links - 
 ### 1.[Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) (👨‍🔧 currently working on fixing expired Database and API) 3. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)  5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/)  6.[Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)  8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)  9.[Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)  10. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)  11 [Jokes App](https://jokes-react-app-mohammad.netlify.app/)  12. [Crypto Daily Tracker](https://crypto-dailytracker.netlify.app/) (👨‍🔧 currently working on improvement)
 
