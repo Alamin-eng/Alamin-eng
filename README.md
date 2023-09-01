@@ -14,7 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="70"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355" alt="nodejs" width="90" height="60"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="sql" width="190" height="60"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="sql" width="190" height="50"/> </a>
 </p>
 
 ## Projects Showcase
@@ -77,7 +77,7 @@ We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-eng&layout=compact)
 <!-- <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" display="inline-block">
 <img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50" height="50">
 <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50"> -->
