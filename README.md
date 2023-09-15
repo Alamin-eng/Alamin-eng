@@ -1,6 +1,6 @@
 <h1 align="center" style="color:red">Hi 👋, I'm Mohammad Alamin</h1>
 
-## 🌱 I’m a Fullstack Developer Graduate based in London 🪐 I’m interested in 👨‍💻 Coding, 💡Problem Solving, 🆕 Learning, ✈️ Travelling, 🍲 Cooking, 💚Green energy, ⚽ Sports
+## 🌱 I’m a Full-stack Developer Graduate based in London 🇬🇧 I’m interested in 👨‍💻 Coding, 🆕 Learning, ✈️ Travelling, 🍲 Cooking, 💚Green energy, ⚽ Sports
 #### 📫 How to reach me ❓ Please use the following links to reach me - 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mohammedalaminruben@gmail.com)
@@ -15,7 +15,7 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="sql" width="190" height="50"/> </a>
 </p>
 
-## Projects Showcase
+## Projects showcase
 
 ### Solo projects -
 ## I have also created many apps and sites using my extensive knowledge of frontend and backend software and it's worth mentioning that I have made all my app's responses on any device 🌞 Here are the links to my projects -
@@ -23,9 +23,9 @@
 
 ### Hackathon -
 ### [Trainee Tracker app](https://github.com/Doris-Siu/in-a-class-of-our-own)
-Our Final Project was developed collaboratively by a team of 3. The project was to create a Trainee tracker responsive fullstack app for CYF students. I have learned advanced Backend development with asynchronous programming techniques and how to work on the Github project board for team collaboration. I have created the Database from scratch and coded to fetch all data from multiple API's and calculated data in the Backend for the Frontend interaction, which is the core functionality of this project. I have also contributed some front-end parts to help my team.
+Our final project was developed collaboratively by a team of 3. The project was to create a trainee tracker responsive fullstack app for CYF students. I have learned advanced Backend development with asynchronous programming techniques and how to work on the Github project board for team collaboration. I have created the Database from scratch and coded to fetch all data from multiple API's and calculated data in the Backend for the Frontend interaction, which is the core functionality of this project. I have also contributed some front-end parts to help my team.
 
-We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile methodology approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
+We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile development approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
 #### Frameworks, Platforms and Libraries I often used - 
 
