@@ -18,8 +18,8 @@
 ## Projects showcase
 
 ### Solo projects -
-## I have also created many apps and websites using my extensive knowledge of front-end and back-end software, and it's worth mentioning that I have made all my apps responsive on any device 🌞 Here are the linksto myy projects:
-### 1.[Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) (👨‍🔧 currently working on fixing expired backend deployment) 3. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)  5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/)  6.[Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)  8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)  9.[Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)  10. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)  11 [Jokes App](https://jokes-react-app-mohammad.netlify.app/)  12. [Crypto Daily Tracker](https://crypto-dailytracker.netlify.app/) (👨‍🔧 currently working on improvement) 13.[Portfolio](https://mohammad-alamin-portfolio.netlify.app/)
+## I have created many fullstack and front-end apps and websites and it's worth mentioning that I have made all my apps responsive on any device 🌞 Here are the linksto myy projects:
+### 1. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 2. [Videos Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) (👨‍🔧 currently working on fixing expired backend deployment) 3. [Hotel Bookings App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 4. [Tv Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/)  5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/)  6. [Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)  8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)  9. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)  10. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)  11. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)  12. [Crypto Daily Tracker](https://crypto-dailytracker.netlify.app/) (👨‍🔧 currently working on improvement) 13. [Portfolio](https://mohammad-alamin-portfolio.netlify.app/)
 
 ### Hackathon -
 ### [Trainee Tracker app](https://github.com/Doris-Siu/in-a-class-of-our-own)
@@ -57,19 +57,19 @@ We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-#### Hosting sites mostly worked on - 
+#### ☁️ Hosting sites mostly worked on - 
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-#### Operating Systems familiar with - 
+#### 💻 Operating Systems familiar with - 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-#### Other familiar Platforms - 
+#### 🖱️ Other familiar Platforms - 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
