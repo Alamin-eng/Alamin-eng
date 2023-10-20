@@ -23,7 +23,7 @@ I have created many apps and websites and it's worth mentioning that I have made
 
 ### Hackathon -
 #### [Trainee Tracker app](https://github.com/Doris-Siu/in-a-class-of-our-own)
-Our final project was developed collaboratively by a team of 3. The project was to create a trainee tracker responsive fullstack app for CYF students. I have learned advanced back-end development with asynchronous programming techniques and how to work on the Github project board for team collaboration. I have created the database from scratch and contributed 80% to the back-end and 20% to the front-end of the entire project.
+Our final project was developed collaboratively by a team of three developers. The project was to create a trainee tracker responsive fullstack app for CYF students. I have learned advanced back-end development with asynchronous programming techniques and how to work on the Github project board for team collaboration. I have created the database from scratch and contributed 80% to the back-end and 20% to the front-end of the entire project.
 
 We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile development approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
