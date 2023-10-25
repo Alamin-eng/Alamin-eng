@@ -25,7 +25,7 @@ I have created many apps and websites and it's worth mentioning that I have made
 #### [Trainee Tracker app](https://github.com/Doris-Siu/in-a-class-of-our-own)
 Our final project was developed collaboratively by a team of three developers. The project was to create a trainee tracker responsive fullstack app for CYF students. I have learned advanced back-end development with asynchronous programming techniques and how to work on the Github project board for team collaboration. I have created the database from scratch and contributed 80% to the back-end and 20% to the front-end of the entire project.
 
-We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b> to create the web application. Our collaboration and Agile development approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
+We utilized<b> React, Node.js, CSS, HTML, JavaScript </b> and <b> PostgresSQL </b> to create the web application. Our collaboration and Agile development approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
 #### Frameworks, Platforms and Libraries I often used - 
 
@@ -51,7 +51,6 @@ We utilized<b> React, CSS, HTML, JavaScript, Node.js,</b> and<b> PostgresSQL </b
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 #### 🧪 Testing frameworks - 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
