@@ -1,6 +1,6 @@
 <h1 align="center" style="color:red">Hi 👋, I'm Mohammad Alamin</h1>
 
-## 🌱 I’m a Full-stack Developer based in London 🇬🇧 I’m interested in 👨‍💻 Coding, 🆕 Learn new technology, 🍲 Cooking, 💚Green energy
+## 🌱 I’m a Full-stack developer based in London 🇬🇧 I’m interested in 👨‍💻 Coding, 🆕 Learn new technology, 🍲 Cooking, 💚Green energy
 #### 📫 How to reach me ❓ Please use the following links to reach me - 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mohammedalaminruben@gmail.com)
