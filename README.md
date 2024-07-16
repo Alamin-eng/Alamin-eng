@@ -1,7 +1,7 @@
 <h1 align="center" style="color:red">Hi 👋, I'm Mohammad Alamin</h1>
 
 ## 🌱 I’m a Full-stack developer based in London 🇬🇧 I am deeply committed to writing clean 👨‍💻 maintainable codes, 🆕 learning new technology, 🏙️ travelling, 🍲 cooking, 💚 sustainable energy
-#### 📫 How to reach me ❓ Please use the following links to reach me - 
+#### 📫 How to reach me ❓ Please use the following links - 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
 [<img src="https://img.shields.io/badge/PORTFOLIO-AF0707?style=for-the-badge&logo=&logoColor=white">](https://mohammad-alamin-portfolio.netlify.app/) 
 
