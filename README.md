@@ -19,7 +19,7 @@
 ## Projects showcase
 
 ### Notable projects -
-I have created many apps and websites and it's worth mentioning that I have made all my apps responsive on any device 🌞 Here are the link's to some of my remarkable projects:
+I have created many apps and websites, and it's worth mentioning that I have made all my apps responsive on any device 🌞 Here are the links to some of my remarkable projects:
 #### 1. [Game play](https://game-play-mohammad-alamin.netlify.app/) 2. [TV Shows Guide](https://cyf-alamin-eng-tv-shows.netlify.app/) 3. [Crypto Daily Tracker](https://crypto-dailytracker.netlify.app/)  4. [Countries App](https://cyf-alamin-eng-country-react.netlify.app/) 5. [Job Listings](https://alamin-eng-job-listings-react.netlify.app/)  6. [Prickles & co. USA](https://cyf-alamin-eng-responsive-grid-multiple-webpage-prickleandco.netlify.app/)  7. [Baby Name Picker](https://cyf-alamin-eng-baby-names.netlify.app/)  8. [Weather App](https://cyf-alamin-eng-weather-app.netlify.app/)  9. [Cyf mini project](https://alamin-eng-cyf-mini-project-react.netlify.app/)  10. [Random quotes](https://mohammads-random-quotes-react-app.netlify.app/)  11. [Jokes App](https://jokes-react-app-mohammad.netlify.app/)  12. [Hotel Booking App](https://cyf-alamin-eng-react-hotel-app.netlify.app/) 13. [Portfolio](https://mohammad-alamin-portfolio.netlify.app/) 14. [Video Recommendation](https://cyf-alamin-eng-full-stack-project-assesment.netlify.app/) [AWS fullstack app in development]
 
 ### Hackathon -
