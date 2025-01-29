@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** based in **London**, dedicated to craf
 - 🌍 **Traveler & Foodie**: Enjoy discovering **new places** and experimenting with **recipes** in the kitchen.  
 - 🌱 **Lifelong Learner**: Actively seeking opportunities to **collaborate** and grow with the **developer community**.  
 
-💡 *Let's connect and build something amazing together!* 🚀  
+💡 Let's connect and build something amazing together! 🚀  
 
 #### 📫 How to reach me ❓ Please use the following links - 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
