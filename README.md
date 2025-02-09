@@ -13,7 +13,9 @@ I'm a passionate **Full-Stack Developer** based in **London**, dedicated to craf
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-alamin-846376220/) 
 [<img src="https://img.shields.io/badge/PORTFOLIO-AF0707?style=for-the-badge&logo=&logoColor=white">](https://mohammad-alamin-portfolio.netlify.app/) 
 
-## Languages and Tools:
+## Coding Languages and Tools:
+
+<!--
 <p align="left" margin="100px">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="70" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="70"/> </a>
@@ -23,7 +25,7 @@ I'm a passionate **Full-Stack Developer** based in **London**, dedicated to craf
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="sql" width="190" height="50"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="sql" width="190" height="50"/> </a>
 </p>
-
+-->
 ## Projects showcase
 
 ### Notable projects -
