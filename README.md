@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Developer** based in **London**, dedicated to craf
 [<img src="https://img.shields.io/badge/PORTFOLIO-AF0707?style=for-the-badge&logo=&logoColor=white">](https://mohammad-alamin-portfolio.netlify.app/) 
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,py,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,py,html,css,postgres,figma)](https://skillicons.dev)
 
 ## Projects showcase
 
