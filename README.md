@@ -74,6 +74,7 @@ We utilized<b> React, Node.js, CSS, HTML, JavaScript </b> and <b> PostgreSQL </b
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)
+![Miro](https://img.shields.io/badge/miro-ffd02f?style=for-the-badge&logo=miro&logoColor=white)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
 
