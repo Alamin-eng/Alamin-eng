@@ -78,8 +78,8 @@ We utilized<b> React, Node.js, CSS, HTML, JavaScript </b> and <b> PostgreSQL </b
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alamin-eng?cardType=level-alternate&theme=vue)](https://git.io/awesome-stats-card)
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-eng&layout=compact)  -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-eng&layout=compact) 
 
 
 <!-- <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50" height="50" display="inline-block">
